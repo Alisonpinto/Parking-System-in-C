@@ -166,11 +166,13 @@ Enter your choice:
       This project has been an amazing learning experience, and I’ve shared the details above. Overall, it was a rewarding journey to start with this project, and I’m looking forward to 
       working on more projects that leverage the logic and concepts of the C language.
     </p>
-    
-    <hr>
+      <hr>
+
+  <div clas="footer">
     <h3><b>Author</b></h3>
     <p><b>Alison Pinto</b></p>
     <p><b>Contact</b>: https://github.com/Alisonpinto?tab=repositories </p>
     <p><b>Contact</b>: https://www.linkedin.com/in/alison-pinto-24862026b/ </p>
+  </div>   
 </body>
 </html>
