@@ -163,7 +163,6 @@ Enter your choice:
     <p>
        I recently completed my mid-semester exams in college and decided to showcase the C programming skills I’ve learned so far. I chose a project that incorporates all the concepts 
        I’ve mastered, allowing me to apply my knowledge and logic to create a mini-project.
- 
       This project has been an amazing learning experience, and I’ve shared the details above. Overall, it was a rewarding journey to start with this project, and I’m looking forward to 
       working on more projects that leverage the logic and concepts of the C language.
     </p>
