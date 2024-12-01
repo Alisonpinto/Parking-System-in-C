@@ -158,8 +158,17 @@ Enter your choice:
         <li><b>Dynamic Pricing</b> - Allow user-defined charges for each vehicle type.</li>
         <li><b>Data Persistence</b> - Save and load data from files.</li>
     </ul>
-     
+      <hr>
+    <h3><b>My Experience</b></h3>
+    <p>
+       I recently completed my mid-semester exams in college and decided to showcase the C programming skills I’ve learned so far. I chose a project that incorporates all the concepts 
+       I’ve mastered, allowing me to apply my knowledge and logic to create a mini-project.
+ 
+      This project has been an amazing learning experience, and I’ve shared the details above. Overall, it was a rewarding journey to start with this project, and I’m looking forward to 
+      working on more projects that leverage the logic and concepts of the C language.
+    </p>
     <hr>
+    
     <h3><b>Author</b></h3>
     <p><b>Alison Pinto</b></p>
     <p><b>Contact</b>: https://github.com/Alisonpinto?tab=repositories </p>
