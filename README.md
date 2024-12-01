@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Parking System in C - User Manual</title>
+    
 </head>
 <body>
     <h1><b>Parking-System-in-C</b></h1>
