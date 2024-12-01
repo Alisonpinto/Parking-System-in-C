@@ -158,8 +158,12 @@ Enter your choice:
         <li><b>Dynamic Pricing</b> - Allow user-defined charges for each vehicle type.</li>
         <li><b>Data Persistence</b> - Save and load data from files.</li>
     </ul>
+     <hr>
+    <h3><b>License</b></h3>
+    <p>
+        This code is open-source and available under the <b>MIT License</b>. You can use, modify, and distribute it freely.
+    </p>
     <hr>
-    
     <h3><b>Author</b></h3>
     <p><b>Alison Pinto</b></p>
     <p><b>Contact</b>: https://github.com/Alisonpinto?tab=repositories </p>
